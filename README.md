@@ -2,7 +2,7 @@
 <code>🎪 Group: IM-13</code>
 <code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 Current [project](PROJECT.md)</code><br>
+<code>🧻 Current [project](https://github.com/AKushch1337/Pong)</code><br>
 <code>🧑‍💻 Languages: JavaScript, CSS, HTML</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@OMEGALULIST](https://telegram.me/OMEGALULIST)</code>
