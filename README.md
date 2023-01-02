@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning **Kotlin, Android, mySQL**
 
 - 📫 How to reach me **[@OMEGALULIST](https://telegram.me/omegalulist)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
