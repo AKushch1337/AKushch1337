@@ -3,7 +3,13 @@
 
 - 🔭 I’m currently working on [Tic Tac Toe](https://github.com/AKushch1337/tic-tac-toe-game)
 
+- 🎪 Group: IM-13</code>
+
 - 🌱 I’m currently learning **Kotlin, Android, mySQL**
+
+- 💡 [Skills](SKILLS.md)</code>
+
+- 👷 Speciality: Software engineer</code>
 
 - 📫 How to reach me **[@OMEGALULIST](https://telegram.me/omegalulist)**
 </p>
