@@ -38,7 +38,7 @@
 | 🟩 delagation         |                       | 🟩 overloading         |                           |                      |
 
 ## Android programming
-| Android development | XML file editing | Jetpack Compose | Android network | Android image loading | Android dependency injection | Architecture | Android local storage | Android asynchronous | Android Service |
+| Main concepts | XML file editing | Jetpack Compose | Android network | Android image loading | Android dependency injection | Architecture | Android local storage | Android asynchronous | Android Service |
 |---|---|---|---|---|---|---|---|---|---|
 | 🟩Activities | 🟩AndroidManifest | 🟩Column | 🟩OkHttp | 🟩Glide | 🟩Dagger | 🟩MVC | 🟨SQLite | 🟩Coroutines | 🟨Google |
 | 🟩Intents | 🟩TextView | 🟩Row | 🟩Retrofit | ⬜Coil | 🟩Hilt | 🟩MVP | ⬜Realm | 🟦 Thread | 🟨Firebase |
@@ -102,7 +102,7 @@
 | ⬜ Object-based programming    | 🟩 Private fields     | 🟩 Circular list     |                          |
 | 🟦 Generic programming         | 🟩 Field declarations | 🟩 Trees             |                          |
 | 🟦 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            |                          |
-| 🟩 Asyncronous programming     | 🟩 Parent class       | 🟩 Functor           |                          |
+| 🟩 Asynchronous programming     | 🟩 Parent class       | 🟩 Functor           |                          |
 | 🟦 Parallel programming        | 🟩 Polymorphism       | 🟩 Functional object |                          |
 | 🟦 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟦 Generator         |                          |
