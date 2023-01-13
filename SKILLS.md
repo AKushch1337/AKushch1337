@@ -40,7 +40,7 @@
 ## Android programming
 | Android development | XML file editing | Jetpack Compose | Android network | Android image loading | Android dependency injection | Architecture | Android local storage | Android asynchronous |
 |---|---|---|---|---|---|---|---|---|
-| 🟩Activities | 🟩AndroidManifest | 🟩Column | 🟩OkHttp | Glide | 🟩Dagger | 🟩MVC | 🟨SQLite | 🟩Coroutines |
+| 🟩Activities | 🟩AndroidManifest | 🟩Column | 🟩OkHttp | 🟩Glide | 🟩Dagger | 🟩MVC | 🟨SQLite | 🟩Coroutines |
 | 🟩Intents | 🟩TextView | 🟩Row | 🟩Retrofit | ⬜Coil | 🟩Hilt | 🟩MVP | ⬜Realm | 🟦 Thread |
 | 🟩Collections | 🟩ImageView | 🟩Box | 🟩Ktor | ⬜Fresco | ⬜Koin | 🟩MVVM | 🟨DataStore | ⬜RxJava/RxKotlin |
 | 🟩Fragments | 🟩Button | 🟩Text | ⬜Okio | ⬜Picasso | ⬜Kodein | ⬜MVI |  |  |
@@ -100,10 +100,10 @@
 | 🟦 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       |                          |
 | 🟩 Object-oriented programming | 🟩 Public fields      | 🟩 Unrolled list     |                          |
 | ⬜ Object-based programming    | 🟩 Private fields     | 🟩 Circular list     |                          |
-| 🟦 Generic programming         | 🟩 Field declarations | 🟦 Trees             |                          |
-| 🟦 Concurrent computing        | 🟩 Inheritance        | 🟦 Graphs            |                          |
-| 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
-| 🟦 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
+| 🟦 Generic programming         | 🟩 Field declarations | 🟩 Trees             |                          |
+| 🟦 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            |                          |
+| 🟩 Asyncronous programming     | 🟩 Parent class       | 🟩 Functor           |                          |
+| 🟦 Parallel programming        | 🟩 Polymorphism       | 🟩 Functional object |                          |
 | 🟦 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟦 Generator         |                          |
 | 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟦 Iterator          |                          |
