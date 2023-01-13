@@ -38,26 +38,26 @@
 | 🟩 delagation         |                       | 🟩 overloading         |                           |                      |
 
 ## Android programming
-| Android development | XML file editing | Jetpack Compose | Android network | Android image loading | Android dependency injection | Architecture | Android local storage | Android asynchronous |
-|---|---|---|---|---|---|---|---|---|
-| 🟩Activities | 🟩AndroidManifest | 🟩Column | 🟩OkHttp | 🟩Glide | 🟩Dagger | 🟩MVC | 🟨SQLite | 🟩Coroutines |
-| 🟩Intents | 🟩TextView | 🟩Row | 🟩Retrofit | ⬜Coil | 🟩Hilt | 🟩MVP | ⬜Realm | 🟦 Thread |
-| 🟩Collections | 🟩ImageView | 🟩Box | 🟩Ktor | ⬜Fresco | ⬜Koin | 🟩MVVM | 🟨DataStore | ⬜RxJava/RxKotlin |
-| 🟩Fragments | 🟩Button | 🟩Text | ⬜Okio | ⬜Picasso | ⬜Kodein | ⬜MVI |  |  |
-| 🟩App links | 🟩Spinner | 🟩Image | ⬜Apollo-Android |  |  | 🟦Clean Architecture |  |  |
-| 🟩ViewBinding | 🟩ScrollView | 🟩Scaffold |  |  |  |  |  |  |
-| 🟩DataBinding | 🟩Switch | 🟨Custom layouts |  |  |  |  |  |  |
-| 🟩Lifecycle | 🟩ProgressBar | 🟨Adaptive layouts |  |  |  |  |  |  |
-| 🟩ViewModel | 🟩LinearLayout | 🟨ConstraintLayout  |  |  |  |  |  |  |
-| 🟩LiveData | 🟩FrameLayout | 🟩Lazy lists |  |  |  |  |  |  |
-| 🟩Paging | 🟩TableLayout | 🟩Lazy grids |  |  |  |  |  |  |
-| 🟩Toast | 🟩ConstraintLayout | 🟩Gestures |  |  |  |  |  |  |
-| 🟩Snackbar | 🟨MotionLayout | 🟩State |  |  |  |  |  |  |
-|  | 🟩RecyclerView | 🟨Animation |  |  |  |  |  |  |
-|  | 🟩Spinner | 🟩Theming |  |  |  |  |  |  |
-|  | 🟩Horizontal/VerticalScrollView | 🟩Modifier |  |  |  |  |  |  |
-|  | 🟩Menu | 🟩Canvas |  |  |  |  |  |  |
-|  |  | 🟩Surface |  |  |  |  |  |  |
+| Android development | XML file editing | Jetpack Compose | Android network | Android image loading | Android dependency injection | Architecture | Android local storage | Android asynchronous | Android Service |
+|---|---|---|---|---|---|---|---|---|---|
+| 🟩Activities | 🟩AndroidManifest | 🟩Column | 🟩OkHttp | 🟩Glide | 🟩Dagger | 🟩MVC | 🟨SQLite | 🟩Coroutines | 🟨Google |
+| 🟩Intents | 🟩TextView | 🟩Row | 🟩Retrofit | ⬜Coil | 🟩Hilt | 🟩MVP | ⬜Realm | 🟦 Thread | 🟨Firebase |
+| 🟩Collections | 🟩ImageView | 🟩Box | 🟩Ktor | ⬜Fresco | ⬜Koin | 🟩MVVM | 🟨DataStore | ⬜RxJava/RxKotlin | 🟨Advertisement |
+| 🟩Fragments | 🟩Button | 🟩Text | ⬜Okio | ⬜Picasso | ⬜Kodein | ⬜MVI |  |  |  |
+| 🟩App links | 🟩Spinner | 🟩Image | ⬜Apollo-Android |  |  | 🟦Clean Architecture |  |  |  |
+| 🟩ViewBinding | 🟩ScrollView | 🟩Scaffold |  |  |  |  |  |  |  |
+| 🟩DataBinding | 🟩Switch | 🟨Custom layouts |  |  |  |  |  |  |  |
+| 🟩Lifecycle | 🟩ProgressBar | 🟨Adaptive layouts |  |  |  |  |  |  |  |
+| 🟩ViewModel | 🟩LinearLayout | 🟨ConstraintLayout  |  |  |  |  |  |  |  |
+| 🟩LiveData | 🟩FrameLayout | 🟩Lazy lists |  |  |  |  |  |  |  |
+| 🟩Paging | 🟩TableLayout | 🟩Lazy grids |  |  |  |  |  |  |  |
+| 🟩Toast | 🟩ConstraintLayout | 🟩Gestures |  |  |  |  |  |  |  |
+| 🟩Snackbar | 🟨MotionLayout | 🟩State |  |  |  |  |  |  |  |
+|  | 🟩RecyclerView | 🟨Animation |  |  |  |  |  |  |  |
+|  | 🟩Spinner | 🟩Theming |  |  |  |  |  |  |  |
+|  | 🟩Horizontal/VerticalScrollView | 🟩Modifier |  |  |  |  |  |  |  |
+|  | 🟩Menu | 🟩Canvas |  |  |  |  |  |  |  |
+|  |  | 🟩Surface |  |  |  |  |  |  |  |
 
 ## SQL
 
