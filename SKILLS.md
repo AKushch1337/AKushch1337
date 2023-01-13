@@ -46,9 +46,9 @@
 | 🟩Fragments | 🟩Button | 🟩Text | ⬜Okio | ⬜Picasso | ⬜Kodein | ⬜MVI |  |  |
 | 🟩App links | 🟩Spinner | 🟩Image | ⬜Apollo-Android |  |  | 🟦Clean Architecture |  |  |
 | 🟩ViewBinding | 🟩ScrollView | 🟩Scaffold |  |  |  |  |  |  |
-| 🟩DataBinding | 🟩Switch | Custom layouts |  |  |  |  |  |  |
-| 🟩Lifecycle | 🟩ProgressBar | Adaptive layouts |  |  |  |  |  |  |
-| 🟩ViewModel | 🟩LinearLayout | ConstraintLayout  |  |  |  |  |  |  |
+| 🟩DataBinding | 🟩Switch | 🟨Custom layouts |  |  |  |  |  |  |
+| 🟩Lifecycle | 🟩ProgressBar | 🟨Adaptive layouts |  |  |  |  |  |  |
+| 🟩ViewModel | 🟩LinearLayout | 🟨ConstraintLayout  |  |  |  |  |  |  |
 | 🟩LiveData | 🟩FrameLayout | 🟩Lazy lists |  |  |  |  |  |  |
 | 🟩Paging | 🟩TableLayout | 🟩Lazy grids |  |  |  |  |  |  |
 | 🟩Toast | 🟩ConstraintLayout | 🟩Gestures |  |  |  |  |  |  |
