@@ -43,7 +43,7 @@
 | 🟩Activities | 🟩AndroidManifest | 🟩Column | 🟩OkHttp | Glide | 🟩Dagger | 🟩MVC | 🟨SQLite | 🟩Coroutines |
 | 🟩Intents | 🟩TextView | 🟩Row | 🟩Retrofit | ⬜Coil | 🟩Hilt | 🟩MVP | ⬜Realm | 🟦 Thread |
 | 🟩Collections | 🟩ImageView | 🟩Box | 🟩Ktor | ⬜Fresco | ⬜Koin | 🟩MVVM | 🟨DataStore | ⬜RxJava/RxKotlin |
-| 🟩Fragments | 🟩Button | 🟩Text | ⬜Okio | ⬜Picasso | ⬜Kodein | 🟨MVI |  |  |
+| 🟩Fragments | 🟩Button | 🟩Text | ⬜Okio | ⬜Picasso | ⬜Kodein | ⬜MVI |  |  |
 | 🟩App links | 🟩Spinner | 🟩Image | ⬜Apollo-Android |  |  | 🟦Clean Architecture |  |  |
 | 🟩ViewBinding | 🟩ScrollView | 🟩Scaffold |  |  |  |  |  |  |
 | 🟩DataBinding | 🟩Switch | Custom layouts |  |  |  |  |  |  |
