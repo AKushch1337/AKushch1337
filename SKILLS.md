@@ -41,7 +41,7 @@
 | Main concepts | XML file editing | Jetpack Compose | Android network | Android image loading | Android dependency injection | Architecture | Android local storage | Android asynchronous | Android Service |
 |---|---|---|---|---|---|---|---|---|---|
 | 🟩Activities | 🟩AndroidManifest | 🟩Column | 🟩OkHttp | 🟩Glide | 🟩Dagger | 🟩MVC | 🟨SQLite | 🟩Coroutines | 🟨Google |
-| 🟩Intents | 🟩TextView | 🟩Row | 🟩Retrofit | ⬜Coil | 🟩Hilt | 🟩MVP | ⬜Realm | 🟦 Thread | 🟨Firebase |
+| 🟩Intents | 🟩TextView | 🟩Row | 🟩Retrofit | ⬜Coil | 🟩Hilt | 🟩MVP | ⬜Realm | 🟩 Thread | 🟨Firebase |
 | 🟩Collections | 🟩ImageView | 🟩Box | 🟩Ktor | ⬜Fresco | ⬜Koin | 🟩MVVM | 🟨DataStore | ⬜RxJava/RxKotlin | 🟨Advertisement |
 | 🟩Fragments | 🟩Button | 🟩Text | ⬜Okio | ⬜Picasso | ⬜Kodein | ⬜MVI |  |  |  |
 | 🟩App links | 🟩Spinner | 🟩Image | ⬜Apollo-Android |  |  | 🟦Clean Architecture |  |  |  |
